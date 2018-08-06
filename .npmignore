@@ -1,0 +1,5 @@
+# 发布 npm 需要忽略的文件/文件夹
+test
+.editorconfig
+.eslintignore
+.eslintrc
